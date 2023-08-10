@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Films">
+        <item>Боевики</item>
+        <item>Аниме</item>
+        <item>Вестерны</item>
+        <item>Детективы</item>
+        <item>Детские</item>
+        <item>Мультфильмы</item>
+        <item>Драма</item>
+        <item>Документальные</item>
+        <item>Комедии</item>
+        <item>Мьюзиклы</item>
+        <item>Приключения</item>
+        <item>Фантастика</item>
+        <item>Триллеры</item>
+        <item>Ужасы</item>
+        <item>Фэнтэзи</item>
+        <item>Семейные</item>
+        <item>Научные</item>
+        <item>Сериалы</item>
+        <item>Мелодрамы</item>
+        <item>Военные</item>
+        <item>Ток-шоу</item>
+
+    </string-array>
+</resources>

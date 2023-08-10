@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/films"
+        android:icon="@drawable/ic_theater_cinema"
+        android:title=""/>
+
+    <item
+        android:id="@+id/vfilms"
+        android:icon="@drawable/ic_directory_files_movie_folder_video_icon_209548"
+        android:title=""/>
+
+    <item
+        android:id="@+id/books"
+        android:icon="@drawable/ic_book_icon"
+        android:title=""/>
+    <item
+        android:id="@+id/readBooks"
+        android:icon="@drawable/ic_library"
+        android:title=""/>
+
+</menu>

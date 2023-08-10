@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/films">
+
+    <fragment
+        android:id="@+id/vfilms"
+        android:name="com.example.projectkino1.ViewedFilms"
+        android:label="fragment_quotes"
+        tools:layout="@layout/fragment_viewed_films" />
+    <fragment
+        android:id="@+id/films"
+        android:name="com.example.projectkino1.Films"
+        android:label="fragment_films"
+        tools:layout="@layout/fragment_films" />
+    <fragment
+        android:id="@+id/books"
+        android:name="com.example.projectkino1.Books"
+        android:label="fragment_books"
+        tools:layout="@layout/fragment_books" />
+    <fragment
+        android:id="@+id/readBooks"
+        android:name="com.example.projectkino1.ReadBooks"
+        android:label="fragment_read_books"
+        tools:layout="@layout/fragment_read_books" />
+</navigation>

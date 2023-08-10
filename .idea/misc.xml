@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable-v24/ic_dashboard_black_24dp.xml" value="0.2074074074074074" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable-v24/ic_home_black_24dp.xml" value="0.2074074074074074" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.236986301369863" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable-v24/ic_notifications_black_24dp.xml" value="0.2074074074074074" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/corner_book.xml" value="0.236986301369863" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/film_tip.xml" value="0.236986301369863" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/ic_book_86162.xml" value="0.236986301369863" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/ic_book_icon.xml" value="0.236986301369863" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/ic_book_icon_158035.xml" value="0.236986301369863" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/ic_book_tip.xml" value="0.236986301369863" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/ic_checkmark_square_button_outline_icon_icons_com_73299.xml" value="0.1300925925925926" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/ic_checkmarkcircleoutline_110695.xml" value="0.1300925925925926" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/ic_directory_files_movie_folder_video_icon_209548.xml" value="0.236986301369863" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/ic_feedback_rating_like_bookmark_ui_rate_favourite_favorite_star_icon_210796.xml" value="0.236986301369863" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/ic_film_110981.xml" value="0.236986301369863" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/ic_film_viewed.xml" value="0.236986301369863" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/ic_iconfinder_video_film_movie_camera_multimedia_4593168_122276.xml" value="0.236986301369863" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/ic_interface_checkmark_check_success_verified_icon_133025.xml" value="0.236986301369863" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.236986301369863" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/ic_outline_checkmark_icon_216038.xml" value="0.1300925925925926" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/ic_round_delete_icon_132776.xml" value="0.1300925925925926" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/ic_staroutline_81125.xml" value="0.236986301369863" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/ic_theater_cinema.xml" value="0.236986301369863" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/menu.xml" value="0.2074074074074074" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/rounded_corner_item.xml" value="0.236986301369863" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/rounded_name.xml" value="0.236986301369863" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/drawable/tip.xml" value="0.236986301369863" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/font/fonts.xml" value="0.2493150684931507" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/activity_add_books.xml" value="0.22056159420289856" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/activity_add_films.xml" value="0.24864130434782608" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/activity_add_quotes.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/activity_add_read.xml" value="0.22056159420289856" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/activity_add_viewed.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/book_item.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/book_item_layout.xml" value="0.22056159420289856" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/book_read_item.xml" value="0.22056159420289856" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/category_add_item.xml" value="0.22056159420289856" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/category_item_layout.xml" value="0.22509057971014493" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/film_item.xml" value="0.536" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/film_item_layout.xml" value="0.4" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/film_list.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/fragment_blank.xml" value="0.1793478260869565" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/fragment_books.xml" value="0.22056159420289856" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/fragment_films.xml" value="0.24864130434782608" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/fragment_item.xml" value="0.11574074074074074" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/fragment_item2.xml" value="0.22056159420289856" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/fragment_item_list.xml" value="0.21342592592592594" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/fragment_item_list2.xml" value="0.21342592592592594" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/fragment_one_object.xml" value="0.22056159420289856" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/fragment_quotes.xml" value="0.1793478260869565" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/fragment_read_books.xml" value="0.22056159420289856" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/fragment_viewed_films.xml" value="0.1793478260869565" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/fragment_wanted_films.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/list_item.xml" value="0.13020833333333334" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/layout/viewed_layout.xml" value="0.22056159420289856" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/menu/menu1.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2074074074074074" />
+        <entry key="..\:/AndroidStudio/ProjectKino1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2074074074074074" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

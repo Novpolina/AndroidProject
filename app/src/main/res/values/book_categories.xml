@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Books">
+        <item>Русская классика</item>
+        <item>Зарубежная классика</item>
+        <item>Детские книги</item>
+        <item>Детективы</item>
+        <item>Современная проза</item>
+        <item>Книги о войне</item>
+        <item>Приключения</item>
+        <item>Биографии</item>
+        <item>Журналы</item>
+        <item>Психология</item>
+        <item>Приключения</item>
+        <item>Фантастика</item>
+        <item>Ужасы</item>
+        <item>Фэнтэзи</item>
+        <item>Научные</item>
+
+
+    </string-array>
+</resources>

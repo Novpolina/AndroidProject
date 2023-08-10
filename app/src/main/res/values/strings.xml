@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjectKino1</string>
+    <string name="wanted">Ваши фильмы</string>
+    <string name="viewed">Просмотренные</string>
+    <string name="quotes">Цитаты</string>
+    <string name="save">Сохранить</string>
+    <string name="name">Название</string>
+    <string name="director">Режиссёр</string>
+    <string name="comment">Комментарии</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
